@@ -5,7 +5,7 @@
 <p align="center">
  
 
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Silkscreen&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Niluk+👾;SelfTaught+Web+Dev+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+Web3;+WAGMI+WAGMI!🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Silkscreen&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Niluk+👾;NEWBIE👶;SelfTaught+Web+Dev+💻;+An+Open+Source+Enthusiast+☀;+A+Hackathon+Enthusiast+👨‍💻;Exploring+Web3;+WAGMI+WAGMI!🔥"/>
   </p>
 
 ![Metrics](https://metrics.lecoq.io/niluk-256?template=classic&isocalendar=1&introduction=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FColombo)
