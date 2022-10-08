@@ -26,31 +26,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niluk-256&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=niluk-256&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-  
-
-
-
-
-
-
+![](https://komarev.com/ghpvc/?username=github-niluk-256)
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/niluk) 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Sinhala&duration=500&pause=100&color=237BA1&width=435&lines=%E0%B6%AD%E0%B7%80%E0%B6%B8+%E0%B6%B8%E0%B7%94%E0%B6%9A%E0%B7%94%E0%B6%AD%E0%B7%8A+%E0%B6%B1%E0%B7%91+%E0%B7%84%E0%B7%94%E0%B6%B8%E0%B7%8A%E0%B6%A7%E0%B7%9C..%F0%9F%98%8F;WAGMI%F0%9F%98%8E%F0%9F%94%A5%F0%9F%91%BE;LFG!%F0%9F%9A%80;YMMV%F0%9F%A6%BE;Crypto%F0%9F%A4%91;%E0%B6%B4%E0%B6%9A%E0%B6%AF+%E0%B6%B6%E0%B6%BD%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B7%99.%F0%9F%91%BF%F0%9F%98%8E;FUCK!;FOMO!!;REKT" alt="Typing SVG" /></a>
