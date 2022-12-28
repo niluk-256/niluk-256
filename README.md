@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm 0x...</h1>
-<h3 align="left">A passionate dev from Ceylon</h3>
+
 
 <p align="center">
  
