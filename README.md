@@ -1,7 +1,4 @@
 
-<h1 align="left">Hi 👋, I'm 0x...</h1>
-
-
 <p align="center">
  
 
